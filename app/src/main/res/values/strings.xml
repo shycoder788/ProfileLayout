@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="Virat_kohli">Virat Kohli</string>
+    <string name="cricketer_rcb_india">Cricketer|RCB|India</string>
+    <string name="_18">222</string>
+    <string name="_222m">228M</string>
+    <string name="_515">515</string>
+    <string name="posts">posts</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="tags">tags</string>
+    <string name="stylish">Stylish</string>
+    <string name="model">Model</string>
+    <string name="cricketer">Cricketer</string>
+    <string name="believer">Believer</string>
+    <string name="collection">Collection</string>
+    <string name="style">King</string>
+    <string name="photo_shoot">Photo Shoot</string>
+    <string name="exercise">Record Breaker</string>
+    <string name="aggressive">Aggressive</string>
+    <string name="latest_posts">Latest Posts</string>
+</resources>
